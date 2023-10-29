@@ -1,4 +1,5 @@
 function [handle] = textitle(text,size)
+
 % TEXTITEL  Set the title in latex math markup
 %   H = textitle(text) sets the text
 %   H = textitle(text,size) sets the text in a specific font size

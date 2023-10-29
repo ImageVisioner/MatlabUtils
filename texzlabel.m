@@ -18,6 +18,7 @@ function [handle] = texzlabel(text,size)
     'interpreter','latex',...
     'FontSize',size,...
     'FontName','Times');
+    
 
     if nargout > 0
         handle = h;
