@@ -1,7 +1,7 @@
 function [handle] = texylabel(text,size)
 
 % TEXYLABEL  Set the Y label in latex math markup
-%   H = texylabel(text) sets the text
+%   H = texylabel(text) sets the t ext
 %   H = texylabel(text,size) sets the text in a specific font size
 %
 %   See also YLABEL
