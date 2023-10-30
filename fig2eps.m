@@ -9,7 +9,6 @@ function fig2eps( varargin )
 %   fig2eps(figureHandle)
 %   fig2eps(figureHandle, 'filename', figureHandle)
 %
-%   See also FIGURE, PRINT.
 
 if nargin == 0
     h = gcf;
