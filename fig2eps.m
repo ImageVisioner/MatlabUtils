@@ -1,6 +1,6 @@
 function fig2eps( varargin )
 % FIG2EPS  Converts the figure to eps format
-%   
+%   调用方式
 %   Accepts one or more of either a figure handle or a filename to a .fig
 %   file.
 %
