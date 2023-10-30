@@ -1,6 +1,7 @@
 function [handle] = texylabel(text,size)
 
-% TEXYLABEL  Set the Y label in latex math markup
+% 设置两种API调用方式
+% text 为文本，size用来控制字体大小
 %   H = texylabel(text) sets the t ext
 %   H = texylabel(text,size) sets the text in a specific font size
 %

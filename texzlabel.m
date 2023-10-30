@@ -1,5 +1,6 @@
 function [handle] = texzlabel(text,size)
-% TEXZLABEL  Set the Z label in latex math markup
+% 设置两种API调用方式
+% text 为文本，size用来控制字体大小
 %   H = texzlabel(text) sets the text
 %   H = texzlabel(text,size) sets the text in a specific font size
 %

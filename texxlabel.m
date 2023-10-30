@@ -1,6 +1,5 @@
 function [handle] = texxlabel(text,size)
-
-% TEXYLABEL  Set the X label in latex math markup
+% text 为文本，size用来控制字体大小
 %   H = texxlabel(text) sets the text
 %   H = texxlabel(text,size) sets the text in a specific font size
 %

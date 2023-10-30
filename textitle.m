@@ -1,6 +1,5 @@
 function [handle] = textitle(text,size)
-
-% TEXTITEL  Set the title in latex math markup
+% text 为文本，size用来控制字体大小
 %   H = textitle(text) sets the text
 %   H = textitle(text,size) sets the text in a specific font size
 %
